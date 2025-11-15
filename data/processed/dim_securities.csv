@@ -1,0 +1,6 @@
+security_key,security_id,ticker,name,asset_class,cusip,exchange
+1,SEC001,AAPL,Apple Inc.,equity,000000001,NASDAQ
+2,SEC002,MSFT,Microsoft Corp.,equity,000000002,NASDAQ
+3,SEC003,AGG,iShares Core US Agg Bond ETF,bond,000000003,OTC
+4,SEC004,VTI,Vanguard Total Stock Mkt,etf,000000004,NASDAQ
+5,SEC005,CASH,Cash,cash,000000005,OTC

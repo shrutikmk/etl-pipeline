@@ -1,0 +1,11 @@
+account_id,customer_id,account_type,opened_at,status,currency
+ACCT00101,CUST001,roth,2024-11-23,active,USD
+ACCT00102,CUST001,ira,2024-11-24,active,USD
+ACCT00201,CUST002,trust,2024-12-03,active,USD
+ACCT00202,CUST002,brokerage,2024-12-04,active,USD
+ACCT00301,CUST003,brokerage,2024-12-13,active,USD
+ACCT00302,CUST003,brokerage,2024-12-14,active,USD
+ACCT00401,CUST004,roth,2024-12-23,active,USD
+ACCT00402,CUST004,brokerage,2024-12-24,active,USD
+ACCT00501,CUST005,ira,2025-01-02,active,USD
+ACCT00502,CUST005,brokerage,2025-01-03,active,USD

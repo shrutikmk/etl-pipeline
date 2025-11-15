@@ -1,0 +1,7 @@
+table,rows
+dim_customers,5
+dim_accounts,10
+dim_securities,5
+fact_transactions,114
+account_daily_value,10
+customer_daily_value,5

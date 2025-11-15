@@ -1,0 +1,8 @@
+rule,dropped
+securities.asset_class_enum,0
+accounts.enums,0
+customers.status_enum,0
+transactions.transaction_type_enum,0
+transactions.quantity_nonnegative,0
+transactions.price_nonnegative,0
+positions.nonnegative,0

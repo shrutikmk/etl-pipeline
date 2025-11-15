@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,created_at,status
+CUST001,First1,Last1,user1@example.com,2024-10-08,inactive
+CUST002,First2,Last2,user2@example.com,2024-10-28,active
+CUST003,First3,Last3,user3@example.com,2024-11-17,active
+CUST004,First4,Last4,user4@example.com,2024-12-07,active
+CUST005,First5,Last5,user5@example.com,2024-12-27,inactive
